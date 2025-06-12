@@ -1,0 +1,1 @@
+ console.log("element found at index :"+ i);
